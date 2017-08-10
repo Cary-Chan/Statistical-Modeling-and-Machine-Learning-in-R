@@ -1,4 +1,4 @@
-#Statistical Modeling and Machine Learning in R
+Statistical Modeling and Machine Learning in R
 
 This repository contains several cases about the implementation of different algorithms using R. Ten popular algorithems are displaied here including:
 
